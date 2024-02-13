@@ -5,11 +5,11 @@
 This project is a simple web application built with Node.js, Axios, Body-parser, and Express. It fetches advice data from [adviceapi.com](https://api.adviceslip.com/) and displays it on the website.
 
 ## Table of Contents
-  * [Features](#)
-  * [Installation](#)
-  * [Usage](#)
-  * [Contributing](#)
-  * [License](#)
+  * [Features](#Features)
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [Contributing](#Contributing)
+  * [License](#License)
   
 # Features
  * Fetches advice data from adviceapi.com.

@@ -1,14 +1,15 @@
+# Advice Generator App
 
 ![Design preview for the Advice generator app ](./public/design/desktop-design.jpg)
-# Advice Generator App
+
 This project is a simple web application built with Node.js, Axios, Body-parser, and Express. It fetches advice data from [adviceapi.com](https://api.adviceslip.com/) and displays it on the website.
 
 ## Table of Contents
-  * Features
-  * Installation
-  * Usage
-  * Contributing
-  * License
+  * [Features](#)
+  * [Installation](#)
+  * [Usage](#)
+  * [Contributing](#)
+  * [License](#)
   
 # Features
  * Fetches advice data from adviceapi.com.

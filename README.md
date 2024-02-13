@@ -15,5 +15,11 @@ This project is a simple web application built with Node.js, Axios, Body-parser,
  * Fetches advice data from adviceapi.com.
  * Built with Node.js, Axios, Body-parser, and Express.
  * Provides a simple and clean web interface.
-Installation
-Clone the repository:
+   
+# Installation
+1. Clone the repository:
+ ```bash
+ git clone git@github.com:Rohanbasnet12/Advice-generator-app.git
+2. Change into the project directory:
+ ```bash
+ cd Advice-generator-app

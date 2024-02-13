@@ -1,6 +1,10 @@
 # Frontend Mentor - Advice generator app
 
+<<<<<<< HEAD
 ![Design preview for the Advice generator app coding challenge](.public/design/desktop-preview.jpg)
+=======
+![Design preview for the Advice generator app coding challenge](.public//design/desktop-preview.jpg)
+>>>>>>> 94597e64e32ba30157b20b0d2cc89018dc742277
 
 ## Welcome! 👋
 
